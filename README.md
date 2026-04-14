@@ -78,3 +78,4 @@ Here is what the code inside each important file is doing in simple terms:
 * **`pages/admin/ManageProducts.jsx`**: A screen with a table listing all products. It has buttons that let the admin add new products, edit existing ones, or delete them.
 * **`pages/user/ProductsList.jsx`**: A screen for the regular user. It shows the products nicely, often with pictures or cards, so the user can look at what is available to buy.
 * **`pages/user/MyOrders.jsx`**: Shows the user a list of only *their* previous purchases.
+g
